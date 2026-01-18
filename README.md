@@ -1,5 +1,5 @@
 
-# Baseline Exploration-Exploitation
+# PyTorch Implementation of Baseline Exploration-Exploitation (AAAI 2025)
 
 We introduce a novel method that enables visualization of predictions made by vision models, as well as visualization of explanations for a specific class.
 In this method, we present the concept of baseline exploration-exploitation.
@@ -24,5 +24,17 @@ For comparison, we used code from the [pytorch-grad-cam](https://github.com/jaco
   <img width="450" height="450" src="example.jpg" alt="ViT" title="ViT">
 </p>
 
-
+## Citation
+Please cite our work if you use it in your research:
+```
+@inproceedings{barkan2025bee,
+  title={BEE: Metric-Adapted Explanations via Baseline Exploration-Exploitation},
+  author={Barkan, Oren and Elisha, Yehonatan and Weill, Jonathan and Koenigstein, Noam},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={2},
+  pages={1835--1843},
+  year={2025}
+}
+```
 
