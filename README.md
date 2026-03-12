@@ -1,5 +1,7 @@
-
 # PyTorch Implementation of Baseline Exploration-Exploitation (AAAI 2025)
+
+[![Paper](https://img.shields.io/badge/Paper-AAAI25-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/32178)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 We introduce a novel method that enables visualization of predictions made by vision models, as well as visualization of explanations for a specific class.
 In this method, we present the concept of baseline exploration-exploitation.
